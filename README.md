@@ -12,6 +12,8 @@ Kiitos että kuuntelit.
 
 Kim-Cohen, J., Caspi, A., Moffitt, T. E., Harrington, H., Milne, B. J., & Poulton, R. (2003). Prior juvenile diagnoses in adults with mental disorder: developmental follow-back of a prospective-longitudinal cohort. Archives of general psychiatry, 60(7), 709–717. https://doi.org/10.1001/archpsyc.60.7.709
 
+Paus, T., Keshavan, M., & Giedd, J. N. (2008). Why do many psychiatric disorders emerge during adolescence?. Nature reviews. Neuroscience, 9(12), 947–957. https://doi.org/10.1038/nrn2513
+
 Insel T. R. (2010). Rethinking schizophrenia. Nature, 468(7321), 187–193. https://doi.org/10.1038/nature09552
 
 Fusar-Poli, P., & Radua, J. (2018). Ten simple rules for conducting umbrella reviews. Evidence-based mental health, 21(3), 95–100. https://doi.org/10.1136/ebmental-2018-300014
