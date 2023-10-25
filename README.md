@@ -16,6 +16,10 @@ Kim-Cohen, J., Caspi, A., Moffitt, T. E., Harrington, H., Milne, B. J., & Poulto
 
 Paus, T., Keshavan, M., & Giedd, J. N. (2008). Why do many psychiatric disorders emerge during adolescence?. Nature reviews. Neuroscience, 9(12), 947–957. https://doi.org/10.1038/nrn2513
 
+Howes, O. D., & Murray, R. M. (2014). Schizophrenia: an integrated sociodevelopmental-cognitive model. Lancet (London, England), 383(9929), 1677–1687. https://doi.org/10.1016/S0140-6736(13)62036-X
+
+McCutcheon, R. A., Reis Marques, T., & Howes, O. D. (2020). Schizophrenia-An Overview. JAMA psychiatry, 77(2), 201–210. https://doi.org/10.1001/jamapsychiatry.2019.3360
+
 Insel T. R. (2010). Rethinking schizophrenia. Nature, 468(7321), 187–193. https://doi.org/10.1038/nature09552
 
 Fusar-Poli, P., & Radua, J. (2018). Ten simple rules for conducting umbrella reviews. Evidence-based mental health, 21(3), 95–100. https://doi.org/10.1136/ebmental-2018-300014
